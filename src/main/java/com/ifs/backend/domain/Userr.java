@@ -4,7 +4,8 @@ package com.ifs.backend.domain;
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.Date;
-//kk
+
+
 @Entity
 public class Userr implements Serializable {
 
