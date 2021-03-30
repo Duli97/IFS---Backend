@@ -22,7 +22,7 @@ public class Userr implements Serializable {
     private Date lastLoginDate;
     private Date getLastLoginDateDisplay;
     private Date joinDate;
-    private String[] roles; // ROLE_USER {read, update, create}, ROLE_ADMIN {delete}
+    private String[] roles; // ROLE_USER {read, update, create}, ROLE_ADMIN { delete}
     private String[] authorities;
     private boolean isActive;
     private boolean isNotLocked;
