@@ -1,4 +1,4 @@
 package com.ifs.backend.utility;
 
-public class JWTTokenPro {
+public class JWTTokenProvider {
 }
